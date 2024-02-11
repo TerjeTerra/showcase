@@ -68,7 +68,7 @@ class GUI implements Utsyn {
                 
                 // Endre tekst paa knappen
                 if (b1.getText().equals("Start")) {
-                    b1.setText("Stopp");
+                    b1.setText("Pause");
                 } 
                 else {
                     b1.setText("Start");
