@@ -2,7 +2,7 @@
 Et prosjekt skrevet som obligatorisk innlevering våren 2023.
 
 Startes fra filen Hovedprogram (når kompilert), eller fra den
-kjoerbare filen GameOfLife_Java.jar. Man kan evt. oppgi 
+kjørbare filen GameOfLife_Java.jar. Man kan evt. oppgi 
 egendefinert størrelse på vinduet som to heltallsparametere, 
 ellers starter standard oppsett 8 x 12 rutenett.
 
